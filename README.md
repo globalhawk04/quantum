@@ -28,13 +28,7 @@ This script models a market with three main competitors, using a 3-qubit quantum
 
 ---
 
-### How to Run the Simulation
-
-#### Prerequisites
-You need to have Python and Qiskit installed.
-```bash
-pip install qiskit qiskit-aer```
-
+###
 X_Prize Quantum 
 Initial Proposal Submitted to X Prize by Justin Houck on March 31st, 2025
 
